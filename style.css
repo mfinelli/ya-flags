@@ -1,0 +1,1765 @@
+/* FLAGS 16 */
+
+.b-country-flag_size-16_al { background-image: url(./16/al.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_al { background-image: url(./32/al.png); }
+}
+
+.b-country-flag_size-16_dz { background-image: url(./16/dz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_dz { background-image: url(./32/dz.png); }
+}
+
+.b-country-flag_size-16_ad { background-image: url(./16/ad.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ad { background-image: url(./32/ad.png); }
+}
+
+.b-country-flag_size-16_ar { background-image: url(./16/ar.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ar { background-image: url(./32/ar.png); }
+}
+
+.b-country-flag_size-16_am { background-image: url(./16/am.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_am { background-image: url(./32/am.png); }
+}
+
+.b-country-flag_size-16_au { background-image: url(./16/au.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_au { background-image: url(./32/au.png); }
+}
+
+.b-country-flag_size-16_at { background-image: url(./16/at.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_at { background-image: url(./32/at.png); }
+}
+
+.b-country-flag_size-16_az { background-image: url(./16/az.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_az { background-image: url(./32/az.png); }
+}
+
+.b-country-flag_size-16_bs { background-image: url(./16/bs.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_bs { background-image: url(./32/bs.png); }
+}
+
+.b-country-flag_size-16_by { background-image: url(./16/by.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_by { background-image: url(./32/by.png); }
+}
+
+.b-country-flag_size-16_be { background-image: url(./16/be.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_be { background-image: url(./32/be.png); }
+}
+
+.b-country-flag_size-16_bm { background-image: url(./16/bm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_bm { background-image: url(./32/bm.png); }
+}
+
+.b-country-flag_size-16_ba { background-image: url(./16/ba.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ba { background-image: url(./32/ba.png); }
+}
+
+.b-country-flag_size-16_br { background-image: url(./16/br.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_br { background-image: url(./32/br.png); }
+}
+
+.b-country-flag_size-16_bg { background-image: url(./16/bg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_bg { background-image: url(./32/bg.png); }
+}
+
+.b-country-flag_size-16_ca { background-image: url(./16/ca.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ca { background-image: url(./32/ca.png); }
+}
+
+.b-country-flag_size-16_ky { background-image: url(./16/ky.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ky { background-image: url(./32/ky.png); }
+}
+
+.b-country-flag_size-16_cl { background-image: url(./16/cl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_cl { background-image: url(./32/cl.png); }
+}
+
+.b-country-flag_size-16_cn { background-image: url(./16/cn.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_cn { background-image: url(./32/cn.png); }
+}
+
+.b-country-flag_size-16_tw { background-image: url(./16/tw.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_tw { background-image: url(./32/tw.png); }
+}
+
+.b-country-flag_size-16_co { background-image: url(./16/co.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_co { background-image: url(./32/co.png); }
+}
+
+.b-country-flag_size-16_cr { background-image: url(./16/cr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_cr { background-image: url(./32/cr.png); }
+}
+
+.b-country-flag_size-16_hr { background-image: url(./16/hr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_hr { background-image: url(./32/hr.png); }
+}
+
+.b-country-flag_size-16_cy { background-image: url(./16/cy.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_cy { background-image: url(./32/cy.png); }
+}
+
+.b-country-flag_size-16_cz { background-image: url(./16/cz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_cz { background-image: url(./32/cz.png); }
+}
+
+.b-country-flag_size-16_dk { background-image: url(./16/dk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_dk { background-image: url(./32/dk.png); }
+}
+
+.b-country-flag_size-16_do { background-image: url(./16/do.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_do { background-image: url(./32/do.png); }
+}
+
+.b-country-flag_size-16_ee { background-image: url(./16/ee.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ee { background-image: url(./32/ee.png); }
+}
+
+.b-country-flag_size-16_et { background-image: url(./16/et.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_et { background-image: url(./32/et.png); }
+}
+
+.b-country-flag_size-16_fi { background-image: url(./16/fi.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_fi { background-image: url(./32/fi.png); }
+}
+
+.b-country-flag_size-16_fr { background-image: url(./16/fr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_fr { background-image: url(./32/fr.png); }
+}
+
+.b-country-flag_size-16_ge { background-image: url(./16/ge.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ge { background-image: url(./32/ge.png); }
+}
+
+.b-country-flag_size-16_de { background-image: url(./16/de.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_de { background-image: url(./32/de.png); }
+}
+
+.b-country-flag_size-16_gh { background-image: url(./16/gh.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_gh { background-image: url(./32/gh.png); }
+}
+
+.b-country-flag_size-16_gb { background-image: url(./16/gb.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_gb { background-image: url(./32/gb.png); }
+}
+
+.b-country-flag_size-16_gr { background-image: url(./16/gr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_gr { background-image: url(./32/gr.png); }
+}
+
+.b-country-flag_size-16_hk { background-image: url(./16/hk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_hk { background-image: url(./32/hk.png); }
+}
+
+.b-country-flag_size-16_hu { background-image: url(./16/hu.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_hu { background-image: url(./32/hu.png); }
+}
+
+.b-country-flag_size-16_is { background-image: url(./16/is.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_is { background-image: url(./32/is.png); }
+}
+
+.b-country-flag_size-16_in { background-image: url(./16/in.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_in { background-image: url(./32/in.png); }
+}
+
+.b-country-flag_size-16_ir { background-image: url(./16/ir.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ir { background-image: url(./32/ir.png); }
+}
+
+.b-country-flag_size-16_ie { background-image: url(./16/ie.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ie { background-image: url(./32/ie.png); }
+}
+
+.b-country-flag_size-16_il { background-image: url(./16/il.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_il { background-image: url(./32/il.png); }
+}
+
+.b-country-flag_size-16_it { background-image: url(./16/it.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_it { background-image: url(./32/it.png); }
+}
+
+.b-country-flag_size-16_jm { background-image: url(./16/jm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_jm { background-image: url(./32/jm.png); }
+}
+
+.b-country-flag_size-16_jp { background-image: url(./16/jp.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_jp { background-image: url(./32/jp.png); }
+}
+
+.b-country-flag_size-16_kz { background-image: url(./16/kz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_kz { background-image: url(./32/kz.png); }
+}
+
+.b-country-flag_size-16_ke { background-image: url(./16/ke.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ke { background-image: url(./32/ke.png); }
+}
+
+.b-country-flag_size-16_kg { background-image: url(./16/kg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_kg { background-image: url(./32/kg.png); }
+}
+
+.b-country-flag_size-16_lv { background-image: url(./16/lv.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_lv { background-image: url(./32/lv.png); }
+}
+
+.b-country-flag_size-16_lb { background-image: url(./16/lb.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_lb { background-image: url(./32/lb.png); }
+}
+
+.b-country-flag_size-16_li { background-image: url(./16/li.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_li { background-image: url(./32/li.png); }
+}
+
+.b-country-flag_size-16_lt { background-image: url(./16/lt.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_lt { background-image: url(./32/lt.png); }
+}
+
+.b-country-flag_size-16_lu { background-image: url(./16/lu.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_lu { background-image: url(./32/lu.png); }
+}
+
+.b-country-flag_size-16_mk { background-image: url(./16/mk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_mk { background-image: url(./32/mk.png); }
+}
+
+.b-country-flag_size-16_mx { background-image: url(./16/mx.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_mx { background-image: url(./32/mx.png); }
+}
+
+.b-country-flag_size-16_md { background-image: url(./16/md.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_md { background-image: url(./32/md.png); }
+}
+
+.b-country-flag_size-16_mc { background-image: url(./16/mc.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_mc { background-image: url(./32/mc.png); }
+}
+
+.b-country-flag_size-16_mn { background-image: url(./16/mn.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_mn { background-image: url(./32/mn.png); }
+}
+
+.b-country-flag_size-16_me { background-image: url(./16/me.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_me { background-image: url(./32/me.png); }
+}
+
+.b-country-flag_size-16_ma { background-image: url(./16/ma.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ma { background-image: url(./32/ma.png); }
+}
+
+.b-country-flag_size-16_mt { background-image: url(./16/mt.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_mt { background-image: url(./32/mt.png); }
+}
+
+.b-country-flag_size-16_np { background-image: url(./16/np.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_np { background-image: url(./32/np.png); }
+}
+
+.b-country-flag_size-16_nl { background-image: url(./16/nl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_nl { background-image: url(./32/nl.png); }
+}
+
+.b-country-flag_size-16_nz { background-image: url(./16/nz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_nz { background-image: url(./32/nz.png); }
+}
+
+.b-country-flag_size-16_kp { background-image: url(./16/kp.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_kp { background-image: url(./32/kp.png); }
+}
+
+.b-country-flag_size-16_no { background-image: url(./16/no.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_no { background-image: url(./32/no.png); }
+}
+
+.b-country-flag_size-16_pk { background-image: url(./16/pk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_pk { background-image: url(./32/pk.png); }
+}
+
+.b-country-flag_size-16_pe { background-image: url(./16/pe.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_pe { background-image: url(./32/pe.png); }
+}
+
+.b-country-flag_size-16_ph { background-image: url(./16/ph.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ph { background-image: url(./32/ph.png); }
+}
+
+.b-country-flag_size-16_pl { background-image: url(./16/pl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_pl { background-image: url(./32/pl.png); }
+}
+
+.b-country-flag_size-16_pt { background-image: url(./16/pt.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_pt { background-image: url(./32/pt.png); }
+}
+
+.b-country-flag_size-16_py { background-image: url(./16/py.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_py { background-image: url(./32/py.png); }
+}
+
+.b-country-flag_size-16_ro { background-image: url(./16/ro.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ro { background-image: url(./32/ro.png); }
+}
+
+.b-country-flag_size-16_sm { background-image: url(./16/sm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_sm { background-image: url(./32/sm.png); }
+}
+
+.b-country-flag_size-16_sn { background-image: url(./16/sn.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_sn { background-image: url(./32/sn.png); }
+}
+
+.b-country-flag_size-16_rs { background-image: url(./16/rs.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_rs { background-image: url(./32/rs.png); }
+}
+
+.b-country-flag_size-16_sk { background-image: url(./16/sk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_sk { background-image: url(./32/sk.png); }
+}
+
+.b-country-flag_size-16_si { background-image: url(./16/si.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_si { background-image: url(./32/si.png); }
+}
+
+.b-country-flag_size-16_za { background-image: url(./16/za.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_za { background-image: url(./32/za.png); }
+}
+
+.b-country-flag_size-16_kr { background-image: url(./16/kr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_kr { background-image: url(./32/kr.png); }
+}
+
+.b-country-flag_size-16_es { background-image: url(./16/es.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_es { background-image: url(./32/es.png); }
+}
+
+.b-country-flag_size-16_se { background-image: url(./16/se.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_se { background-image: url(./32/se.png); }
+}
+
+.b-country-flag_size-16_ch { background-image: url(./16/ch.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ch { background-image: url(./32/ch.png); }
+}
+
+.b-country-flag_size-16_tg { background-image: url(./16/tg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_tg { background-image: url(./32/tg.png); }
+}
+
+.b-country-flag_size-16_th { background-image: url(./16/th.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_th { background-image: url(./32/th.png); }
+}
+
+.b-country-flag_size-16_tj { background-image: url(./16/tj.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_tj { background-image: url(./32/tj.png); }
+}
+
+.b-country-flag_size-16_tl { background-image: url(./16/tl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_tl { background-image: url(./32/tl.png); }
+}
+
+.b-country-flag_size-16_to { background-image: url(./16/to.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_to { background-image: url(./32/to.png); }
+}
+
+.b-country-flag_size-16_tr { background-image: url(./16/tr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_tr { background-image: url(./32/tr.png); }
+}
+
+.b-country-flag_size-16_us { background-image: url(./16/us.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_us { background-image: url(./32/us.png); }
+}
+
+.b-country-flag_size-16_uz { background-image: url(./16/uz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_uz { background-image: url(./32/uz.png); }
+}
+
+.b-country-flag_size-16_ve { background-image: url(./16/ve.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_ve { background-image: url(./32/ve.png); }
+}
+
+.b-country-flag_size-16_vg { background-image: url(./16/vg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_vg { background-image: url(./32/vg.png); }
+}
+
+.b-country-flag_size-16_vi { background-image: url(./16/vi.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_vi { background-image: url(./32/vi.png); }
+}
+
+.b-country-flag_size-16_zw { background-image: url(./16/zw.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_zw { background-image: url(./32/zw.png); }
+}
+
+
+/* FLAGS 24 */
+
+.b-country-flag_size-24_al { background-image: url(./24/al.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_al { background-image: url(./48/al.png); }
+}
+
+.b-country-flag_size-24_dz { background-image: url(./24/dz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_dz { background-image: url(./48/dz.png); }
+}
+
+.b-country-flag_size-24_ad { background-image: url(./24/ad.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ad { background-image: url(./48/ad.png); }
+}
+
+.b-country-flag_size-24_ar { background-image: url(./24/ar.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ar { background-image: url(./48/ar.png); }
+}
+
+.b-country-flag_size-24_am { background-image: url(./24/am.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_am { background-image: url(./48/am.png); }
+}
+
+.b-country-flag_size-24_au { background-image: url(./24/au.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_au { background-image: url(./48/au.png); }
+}
+
+.b-country-flag_size-24_at { background-image: url(./24/at.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_at { background-image: url(./48/at.png); }
+}
+
+.b-country-flag_size-24_az { background-image: url(./24/az.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_az { background-image: url(./48/az.png); }
+}
+
+.b-country-flag_size-24_bs { background-image: url(./24/bs.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_bs { background-image: url(./48/bs.png); }
+}
+
+.b-country-flag_size-24_by { background-image: url(./24/by.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_by { background-image: url(./48/by.png); }
+}
+
+.b-country-flag_size-24_be { background-image: url(./24/be.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_be { background-image: url(./48/be.png); }
+}
+
+.b-country-flag_size-24_bm { background-image: url(./24/bm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_bm { background-image: url(./48/bm.png); }
+}
+
+.b-country-flag_size-24_ba { background-image: url(./24/ba.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ba { background-image: url(./48/ba.png); }
+}
+
+.b-country-flag_size-24_br { background-image: url(./24/br.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_br { background-image: url(./48/br.png); }
+}
+
+.b-country-flag_size-24_bg { background-image: url(./24/bg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_bg { background-image: url(./48/bg.png); }
+}
+
+.b-country-flag_size-24_ca { background-image: url(./24/ca.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ca { background-image: url(./48/ca.png); }
+}
+
+.b-country-flag_size-24_ky { background-image: url(./24/ky.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ky { background-image: url(./48/ky.png); }
+}
+
+.b-country-flag_size-24_cl { background-image: url(./24/cl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_cl { background-image: url(./48/cl.png); }
+}
+
+.b-country-flag_size-24_cn { background-image: url(./24/cn.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_cn { background-image: url(./48/cn.png); }
+}
+
+.b-country-flag_size-24_tw { background-image: url(./24/tw.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_tw { background-image: url(./48/tw.png); }
+}
+
+.b-country-flag_size-24_co { background-image: url(./24/co.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_co { background-image: url(./48/co.png); }
+}
+
+.b-country-flag_size-24_cr { background-image: url(./24/cr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_cr { background-image: url(./48/cr.png); }
+}
+
+.b-country-flag_size-24_hr { background-image: url(./24/hr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_hr { background-image: url(./48/hr.png); }
+}
+
+.b-country-flag_size-24_cy { background-image: url(./24/cy.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_cy { background-image: url(./48/cy.png); }
+}
+
+.b-country-flag_size-24_cz { background-image: url(./24/cz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_cz { background-image: url(./48/cz.png); }
+}
+
+.b-country-flag_size-24_dk { background-image: url(./24/dk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_dk { background-image: url(./48/dk.png); }
+}
+
+.b-country-flag_size-24_do { background-image: url(./24/do.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_do { background-image: url(./48/do.png); }
+}
+
+.b-country-flag_size-24_ee { background-image: url(./24/ee.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ee { background-image: url(./48/ee.png); }
+}
+
+.b-country-flag_size-24_et { background-image: url(./24/et.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_et { background-image: url(./48/et.png); }
+}
+
+.b-country-flag_size-24_fi { background-image: url(./24/fi.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_fi { background-image: url(./48/fi.png); }
+}
+
+.b-country-flag_size-24_fr { background-image: url(./24/fr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_fr { background-image: url(./48/fr.png); }
+}
+
+.b-country-flag_size-24_ge { background-image: url(./24/ge.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ge { background-image: url(./48/ge.png); }
+}
+
+.b-country-flag_size-24_de { background-image: url(./24/de.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_de { background-image: url(./48/de.png); }
+}
+
+.b-country-flag_size-24_gh { background-image: url(./24/gh.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_gh { background-image: url(./48/gh.png); }
+}
+
+.b-country-flag_size-24_gb { background-image: url(./24/gb.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_gb { background-image: url(./48/gb.png); }
+}
+
+.b-country-flag_size-24_gr { background-image: url(./24/gr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_gr { background-image: url(./48/gr.png); }
+}
+
+.b-country-flag_size-24_hk { background-image: url(./24/hk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_hk { background-image: url(./48/hk.png); }
+}
+
+.b-country-flag_size-24_hu { background-image: url(./24/hu.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_hu { background-image: url(./48/hu.png); }
+}
+
+.b-country-flag_size-24_is { background-image: url(./24/is.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_is { background-image: url(./48/is.png); }
+}
+
+.b-country-flag_size-24_in { background-image: url(./24/in.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_in { background-image: url(./48/in.png); }
+}
+
+.b-country-flag_size-24_ir { background-image: url(./24/ir.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ir { background-image: url(./48/ir.png); }
+}
+
+.b-country-flag_size-24_ie { background-image: url(./24/ie.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ie { background-image: url(./48/ie.png); }
+}
+
+.b-country-flag_size-24_il { background-image: url(./24/il.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_il { background-image: url(./48/il.png); }
+}
+
+.b-country-flag_size-24_it { background-image: url(./24/it.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_it { background-image: url(./48/it.png); }
+}
+
+.b-country-flag_size-24_jm { background-image: url(./24/jm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_jm { background-image: url(./48/jm.png); }
+}
+
+.b-country-flag_size-24_jp { background-image: url(./24/jp.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_jp { background-image: url(./48/jp.png); }
+}
+
+.b-country-flag_size-24_kz { background-image: url(./24/kz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_kz { background-image: url(./48/kz.png); }
+}
+
+.b-country-flag_size-24_ke { background-image: url(./24/ke.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ke { background-image: url(./48/ke.png); }
+}
+
+.b-country-flag_size-24_kg { background-image: url(./24/kg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_kg { background-image: url(./48/kg.png); }
+}
+
+.b-country-flag_size-24_lv { background-image: url(./24/lv.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_lv { background-image: url(./48/lv.png); }
+}
+
+.b-country-flag_size-24_lb { background-image: url(./24/lb.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_lb { background-image: url(./48/lb.png); }
+}
+
+.b-country-flag_size-24_li { background-image: url(./24/li.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_li { background-image: url(./48/li.png); }
+}
+
+.b-country-flag_size-24_lt { background-image: url(./24/lt.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_lt { background-image: url(./48/lt.png); }
+}
+
+.b-country-flag_size-24_lu { background-image: url(./24/lu.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_lu { background-image: url(./48/lu.png); }
+}
+
+.b-country-flag_size-24_mk { background-image: url(./24/mk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_mk { background-image: url(./48/mk.png); }
+}
+
+.b-country-flag_size-24_mx { background-image: url(./24/mx.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_mx { background-image: url(./48/mx.png); }
+}
+
+.b-country-flag_size-24_md { background-image: url(./24/md.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_md { background-image: url(./48/md.png); }
+}
+
+.b-country-flag_size-24_mc { background-image: url(./24/mc.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_mc { background-image: url(./48/mc.png); }
+}
+
+.b-country-flag_size-24_mn { background-image: url(./24/mn.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_mn { background-image: url(./48/mn.png); }
+}
+
+.b-country-flag_size-24_me { background-image: url(./24/me.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_me { background-image: url(./48/me.png); }
+}
+
+.b-country-flag_size-24_ma { background-image: url(./24/ma.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ma { background-image: url(./48/ma.png); }
+}
+
+.b-country-flag_size-24_mt { background-image: url(./24/mt.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_mt { background-image: url(./48/mt.png); }
+}
+
+.b-country-flag_size-24_np { background-image: url(./24/np.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_np { background-image: url(./48/np.png); }
+}
+
+.b-country-flag_size-24_nl { background-image: url(./24/nl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_nl { background-image: url(./48/nl.png); }
+}
+
+.b-country-flag_size-24_nz { background-image: url(./24/nz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_nz { background-image: url(./48/nz.png); }
+}
+
+.b-country-flag_size-24_kp { background-image: url(./24/kp.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_kp { background-image: url(./48/kp.png); }
+}
+
+.b-country-flag_size-24_no { background-image: url(./24/no.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_no { background-image: url(./48/no.png); }
+}
+
+.b-country-flag_size-24_pk { background-image: url(./24/pk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_pk { background-image: url(./48/pk.png); }
+}
+
+.b-country-flag_size-24_pe { background-image: url(./24/pe.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_pe { background-image: url(./48/pe.png); }
+}
+
+.b-country-flag_size-24_ph { background-image: url(./24/ph.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ph { background-image: url(./48/ph.png); }
+}
+
+.b-country-flag_size-24_pl { background-image: url(./24/pl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_pl { background-image: url(./48/pl.png); }
+}
+
+.b-country-flag_size-24_pt { background-image: url(./24/pt.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_pt { background-image: url(./48/pt.png); }
+}
+
+.b-country-flag_size-24_py { background-image: url(./24/py.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_py { background-image: url(./48/py.png); }
+}
+
+.b-country-flag_size-24_ro { background-image: url(./24/ro.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ro { background-image: url(./48/ro.png); }
+}
+
+.b-country-flag_size-24_ru { background-image: url(./24/ru.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ru { background-image: url(./48/ru.png); }
+}
+
+.b-country-flag_size-24_sm { background-image: url(./24/sm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_sm { background-image: url(./48/sm.png); }
+}
+
+.b-country-flag_size-24_sn { background-image: url(./24/sn.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_sn { background-image: url(./48/sn.png); }
+}
+
+.b-country-flag_size-24_rs { background-image: url(./24/rs.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_rs { background-image: url(./48/rs.png); }
+}
+
+.b-country-flag_size-24_sk { background-image: url(./24/sk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_sk { background-image: url(./48/sk.png); }
+}
+
+.b-country-flag_size-24_si { background-image: url(./24/si.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_si { background-image: url(./48/si.png); }
+}
+
+.b-country-flag_size-24_za { background-image: url(./24/za.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_za { background-image: url(./48/za.png); }
+}
+
+.b-country-flag_size-24_kr { background-image: url(./24/kr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_kr { background-image: url(./48/kr.png); }
+}
+
+.b-country-flag_size-24_es { background-image: url(./24/es.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_es { background-image: url(./48/es.png); }
+}
+
+.b-country-flag_size-24_se { background-image: url(./24/se.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_se { background-image: url(./48/se.png); }
+}
+
+.b-country-flag_size-24_ch { background-image: url(./24/ch.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ch { background-image: url(./48/ch.png); }
+}
+
+.b-country-flag_size-24_tg { background-image: url(./24/tg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_tg { background-image: url(./48/tg.png); }
+}
+
+.b-country-flag_size-24_th { background-image: url(./24/th.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_th { background-image: url(./48/th.png); }
+}
+
+.b-country-flag_size-24_tj { background-image: url(./24/tj.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_tj { background-image: url(./48/tj.png); }
+}
+
+.b-country-flag_size-24_tl { background-image: url(./24/tl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_tl { background-image: url(./48/tl.png); }
+}
+
+.b-country-flag_size-24_to { background-image: url(./24/to.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_to { background-image: url(./48/to.png); }
+}
+
+.b-country-flag_size-24_tr { background-image: url(./24/tr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_tr { background-image: url(./48/tr.png); }
+}
+
+.b-country-flag_size-24_ua { background-image: url(./24/ua.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ua { background-image: url(./48/ua.png); }
+}
+
+.b-country-flag_size-24_us { background-image: url(./24/us.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_us { background-image: url(./48/us.png); }
+}
+
+.b-country-flag_size-24_uz { background-image: url(./24/uz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_uz { background-image: url(./48/uz.png); }
+}
+
+.b-country-flag_size-24_ve { background-image: url(./24/ve.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_ve { background-image: url(./48/ve.png); }
+}
+
+.b-country-flag_size-24_vg { background-image: url(./24/vg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_vg { background-image: url(./48/vg.png); }
+}
+
+.b-country-flag_size-24_vi { background-image: url(./24/vi.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_vi { background-image: url(./48/vi.png); }
+}
+
+.b-country-flag_size-24_zw { background-image: url(./24/zw.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_zw { background-image: url(./48/zw.png); }
+}
+
+
+/* FLAGS 32 */
+
+.b-country-flag_size-32_al { background-image: url(./32/al.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_al { background-image: url(./64/al.png); }
+}
+
+.b-country-flag_size-32_dz { background-image: url(./32/dz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_dz { background-image: url(./64/dz.png); }
+}
+
+.b-country-flag_size-32_ad { background-image: url(./32/ad.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ad { background-image: url(./64/ad.png); }
+}
+
+.b-country-flag_size-32_ar { background-image: url(./32/ar.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ar { background-image: url(./64/ar.png); }
+}
+
+.b-country-flag_size-32_am { background-image: url(./32/am.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_am { background-image: url(./64/am.png); }
+}
+
+.b-country-flag_size-32_au { background-image: url(./32/au.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_au { background-image: url(./64/au.png); }
+}
+
+.b-country-flag_size-32_at { background-image: url(./32/at.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_at { background-image: url(./64/at.png); }
+}
+
+.b-country-flag_size-32_az { background-image: url(./32/az.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_az { background-image: url(./64/az.png); }
+}
+
+.b-country-flag_size-32_bs { background-image: url(./32/bs.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_bs { background-image: url(./64/bs.png); }
+}
+
+.b-country-flag_size-32_by { background-image: url(./32/by.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_by { background-image: url(./64/by.png); }
+}
+
+.b-country-flag_size-32_be { background-image: url(./32/be.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_be { background-image: url(./64/be.png); }
+}
+
+.b-country-flag_size-32_bm { background-image: url(./32/bm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_bm { background-image: url(./64/bm.png); }
+}
+
+.b-country-flag_size-32_ba { background-image: url(./32/ba.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ba { background-image: url(./64/ba.png); }
+}
+
+.b-country-flag_size-32_br { background-image: url(./32/br.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_br { background-image: url(./64/br.png); }
+}
+
+.b-country-flag_size-32_bg { background-image: url(./32/bg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_bg { background-image: url(./64/bg.png); }
+}
+
+.b-country-flag_size-32_ca { background-image: url(./32/ca.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ca { background-image: url(./64/ca.png); }
+}
+
+.b-country-flag_size-32_ky { background-image: url(./32/ky.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ky { background-image: url(./64/ky.png); }
+}
+
+.b-country-flag_size-32_cl { background-image: url(./32/cl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_cl { background-image: url(./64/cl.png); }
+}
+
+.b-country-flag_size-32_cn { background-image: url(./32/cn.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_cn { background-image: url(./64/cn.png); }
+}
+
+.b-country-flag_size-32_tw { background-image: url(./32/tw.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_tw { background-image: url(./64/tw.png); }
+}
+
+.b-country-flag_size-32_co { background-image: url(./32/co.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_co { background-image: url(./64/co.png); }
+}
+
+.b-country-flag_size-32_cr { background-image: url(./32/cr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_cr { background-image: url(./64/cr.png); }
+}
+
+.b-country-flag_size-32_hr { background-image: url(./32/hr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_hr { background-image: url(./64/hr.png); }
+}
+
+.b-country-flag_size-32_cy { background-image: url(./32/cy.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_cy { background-image: url(./64/cy.png); }
+}
+
+.b-country-flag_size-32_cz { background-image: url(./32/cz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_cz { background-image: url(./64/cz.png); }
+}
+
+.b-country-flag_size-32_dk { background-image: url(./32/dk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_dk { background-image: url(./64/dk.png); }
+}
+
+.b-country-flag_size-32_do { background-image: url(./32/do.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_do { background-image: url(./64/do.png); }
+}
+
+.b-country-flag_size-32_ee { background-image: url(./32/ee.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ee { background-image: url(./64/ee.png); }
+}
+
+.b-country-flag_size-32_et { background-image: url(./32/et.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_et { background-image: url(./64/et.png); }
+}
+
+.b-country-flag_size-32_fi { background-image: url(./32/fi.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_fi { background-image: url(./64/fi.png); }
+}
+
+.b-country-flag_size-32_fr { background-image: url(./32/fr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_fr { background-image: url(./64/fr.png); }
+}
+
+.b-country-flag_size-32_ge { background-image: url(./32/ge.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ge { background-image: url(./64/ge.png); }
+}
+
+.b-country-flag_size-32_de { background-image: url(./32/de.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_de { background-image: url(./64/de.png); }
+}
+
+.b-country-flag_size-32_gh { background-image: url(./32/gh.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_gh { background-image: url(./64/gh.png); }
+}
+
+.b-country-flag_size-32_gb { background-image: url(./32/gb.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_gb { background-image: url(./64/gb.png); }
+}
+
+.b-country-flag_size-32_gr { background-image: url(./32/gr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_gr { background-image: url(./64/gr.png); }
+}
+
+.b-country-flag_size-32_hk { background-image: url(./32/hk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_hk { background-image: url(./64/hk.png); }
+}
+
+.b-country-flag_size-32_hu { background-image: url(./32/hu.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_hu { background-image: url(./64/hu.png); }
+}
+
+.b-country-flag_size-32_is { background-image: url(./32/is.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_is { background-image: url(./64/is.png); }
+}
+
+.b-country-flag_size-32_in { background-image: url(./32/in.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_in { background-image: url(./64/in.png); }
+}
+
+.b-country-flag_size-32_ir { background-image: url(./32/ir.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ir { background-image: url(./64/ir.png); }
+}
+
+.b-country-flag_size-32_ie { background-image: url(./32/ie.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ie { background-image: url(./64/ie.png); }
+}
+
+.b-country-flag_size-32_il { background-image: url(./32/il.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_il { background-image: url(./64/il.png); }
+}
+
+.b-country-flag_size-32_it { background-image: url(./32/it.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_it { background-image: url(./64/it.png); }
+}
+
+.b-country-flag_size-32_jm { background-image: url(./32/jm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_jm { background-image: url(./64/jm.png); }
+}
+
+.b-country-flag_size-32_jp { background-image: url(./32/jp.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_jp { background-image: url(./64/jp.png); }
+}
+
+.b-country-flag_size-32_kz { background-image: url(./32/kz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_kz { background-image: url(./64/kz.png); }
+}
+
+.b-country-flag_size-32_ke { background-image: url(./32/ke.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ke { background-image: url(./64/ke.png); }
+}
+
+.b-country-flag_size-32_kg { background-image: url(./32/kg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_kg { background-image: url(./64/kg.png); }
+}
+
+.b-country-flag_size-32_lv { background-image: url(./32/lv.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_lv { background-image: url(./64/lv.png); }
+}
+
+.b-country-flag_size-32_lb { background-image: url(./32/lb.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_lb { background-image: url(./64/lb.png); }
+}
+
+.b-country-flag_size-32_li { background-image: url(./32/li.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_li { background-image: url(./64/li.png); }
+}
+
+.b-country-flag_size-32_lt { background-image: url(./32/lt.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_lt { background-image: url(./64/lt.png); }
+}
+
+.b-country-flag_size-32_lu { background-image: url(./32/lu.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_lu { background-image: url(./64/lu.png); }
+}
+
+.b-country-flag_size-32_mk { background-image: url(./32/mk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_mk { background-image: url(./64/mk.png); }
+}
+
+.b-country-flag_size-32_mx { background-image: url(./32/mx.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_mx { background-image: url(./64/mx.png); }
+}
+
+.b-country-flag_size-32_md { background-image: url(./32/md.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_md { background-image: url(./64/md.png); }
+}
+
+.b-country-flag_size-32_mc { background-image: url(./32/mc.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_mc { background-image: url(./64/mc.png); }
+}
+
+.b-country-flag_size-32_mn { background-image: url(./32/mn.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_mn { background-image: url(./64/mn.png); }
+}
+
+.b-country-flag_size-32_me { background-image: url(./32/me.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_me { background-image: url(./64/me.png); }
+}
+
+.b-country-flag_size-32_ma { background-image: url(./32/ma.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ma { background-image: url(./64/ma.png); }
+}
+
+.b-country-flag_size-32_mt { background-image: url(./32/mt.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_mt { background-image: url(./64/mt.png); }
+}
+
+.b-country-flag_size-32_np { background-image: url(./32/np.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_np { background-image: url(./64/np.png); }
+}
+
+.b-country-flag_size-32_nl { background-image: url(./32/nl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_nl { background-image: url(./64/nl.png); }
+}
+
+.b-country-flag_size-32_nz { background-image: url(./32/nz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_nz { background-image: url(./64/nz.png); }
+}
+
+.b-country-flag_size-32_kp { background-image: url(./32/kp.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_kp { background-image: url(./64/kp.png); }
+}
+
+.b-country-flag_size-32_no { background-image: url(./32/no.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_no { background-image: url(./64/no.png); }
+}
+
+.b-country-flag_size-32_pk { background-image: url(./32/pk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_pk { background-image: url(./64/pk.png); }
+}
+
+.b-country-flag_size-32_pe { background-image: url(./32/pe.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_pe { background-image: url(./64/pe.png); }
+}
+
+.b-country-flag_size-32_ph { background-image: url(./32/ph.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ph { background-image: url(./64/ph.png); }
+}
+
+.b-country-flag_size-32_pl { background-image: url(./32/pl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_pl { background-image: url(./64/pl.png); }
+}
+
+.b-country-flag_size-32_pt { background-image: url(./32/pt.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_pt { background-image: url(./64/pt.png); }
+}
+
+.b-country-flag_size-32_py { background-image: url(./32/py.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_py { background-image: url(./64/py.png); }
+}
+
+.b-country-flag_size-32_ro { background-image: url(./32/ro.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ro { background-image: url(./64/ro.png); }
+}
+
+.b-country-flag_size-32_ru { background-image: url(./32/ru.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ru { background-image: url(./64/ru.png); }
+}
+
+.b-country-flag_size-32_sm { background-image: url(./32/sm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_sm { background-image: url(./64/sm.png); }
+}
+
+.b-country-flag_size-32_sn { background-image: url(./32/sn.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_sn { background-image: url(./64/sn.png); }
+}
+
+.b-country-flag_size-32_rs { background-image: url(./32/rs.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_rs { background-image: url(./64/rs.png); }
+}
+
+.b-country-flag_size-32_sk { background-image: url(./32/sk.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_sk { background-image: url(./64/sk.png); }
+}
+
+.b-country-flag_size-32_si { background-image: url(./32/si.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_si { background-image: url(./64/si.png); }
+}
+
+.b-country-flag_size-32_za { background-image: url(./32/za.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_za { background-image: url(./64/za.png); }
+}
+
+.b-country-flag_size-32_kr { background-image: url(./32/kr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_kr { background-image: url(./64/kr.png); }
+}
+
+.b-country-flag_size-32_es { background-image: url(./32/es.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_es { background-image: url(./64/es.png); }
+}
+
+.b-country-flag_size-32_se { background-image: url(./32/se.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_se { background-image: url(./64/se.png); }
+}
+
+.b-country-flag_size-32_ch { background-image: url(./32/ch.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ch { background-image: url(./64/ch.png); }
+}
+
+.b-country-flag_size-32_tg { background-image: url(./32/tg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_tg { background-image: url(./64/tg.png); }
+}
+
+.b-country-flag_size-32_th { background-image: url(./32/th.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_th { background-image: url(./64/th.png); }
+}
+
+.b-country-flag_size-32_tj { background-image: url(./32/tj.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_tj { background-image: url(./64/tj.png); }
+}
+
+.b-country-flag_size-32_tl { background-image: url(./32/tl.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_tl { background-image: url(./64/tl.png); }
+}
+
+.b-country-flag_size-32_to { background-image: url(./32/to.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_to { background-image: url(./64/to.png); }
+}
+
+.b-country-flag_size-32_tr { background-image: url(./32/tr.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_tr { background-image: url(./64/tr.png); }
+}
+
+.b-country-flag_size-32_ua { background-image: url(./32/ua.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ua { background-image: url(./64/ua.png); }
+}
+
+.b-country-flag_size-32_us { background-image: url(./32/us.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_us { background-image: url(./64/us.png); }
+}
+
+.b-country-flag_size-32_uz { background-image: url(./32/uz.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_uz { background-image: url(./64/uz.png); }
+}
+
+.b-country-flag_size-32_ve { background-image: url(./32/ve.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_ve { background-image: url(./64/ve.png); }
+}
+
+.b-country-flag_size-32_vg { background-image: url(./32/vg.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_vg { background-image: url(./64/vg.png); }
+}
+
+.b-country-flag_size-32_vi { background-image: url(./32/vi.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_vi { background-image: url(./64/vi.png); }
+}
+
+.b-country-flag_size-32_zw { background-image: url(./32/zw.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_zw { background-image: url(./64/zw.png); }
+}
+
+
+/* FLAGS 48 */
+
+.b-country-flag_size-48_al {
+    background-image: url(./48/al.png);
+}
+.b-country-flag_size-48_dz {
+    background-image: url(./48/dz.png);
+}
+.b-country-flag_size-48_ad {
+    background-image: url(./48/ad.png);
+}
+.b-country-flag_size-48_ar {
+    background-image: url(./48/ar.png);
+}
+.b-country-flag_size-48_am {
+    background-image: url(./48/am.png);
+}
+.b-country-flag_size-48_au {
+    background-image: url(./48/au.png);
+}
+.b-country-flag_size-48_at {
+    background-image: url(./48/at.png);
+}
+.b-country-flag_size-48_az {
+    background-image: url(./48/az.png);
+}
+.b-country-flag_size-48_bs {
+    background-image: url(./48/bs.png);
+}
+.b-country-flag_size-48_by {
+    background-image: url(./48/by.png);
+}
+.b-country-flag_size-48_be {
+    background-image: url(./48/be.png);
+}
+.b-country-flag_size-48_bm {
+    background-image: url(./48/bm.png);
+}
+.b-country-flag_size-48_ba {
+    background-image: url(./48/ba.png);
+}
+.b-country-flag_size-48_br {
+    background-image: url(./48/br.png);
+}
+.b-country-flag_size-48_bg {
+    background-image: url(./48/bg.png);
+}
+.b-country-flag_size-48_ca {
+    background-image: url(./48/ca.png);
+}
+.b-country-flag_size-48_ky {
+    background-image: url(./48/ky.png);
+}
+.b-country-flag_size-48_cl {
+    background-image: url(./48/cl.png);
+}
+.b-country-flag_size-48_cn {
+    background-image: url(./48/cn.png);
+}
+.b-country-flag_size-48_tw {
+    background-image: url(./48/tw.png);
+}
+.b-country-flag_size-48_co {
+    background-image: url(./48/co.png);
+}
+.b-country-flag_size-48_cr {
+    background-image: url(./48/cr.png);
+}
+.b-country-flag_size-48_hr {
+    background-image: url(./48/hr.png);
+}
+.b-country-flag_size-48_cy {
+    background-image: url(./48/cy.png);
+}
+.b-country-flag_size-48_cz {
+    background-image: url(./48/cz.png);
+}
+.b-country-flag_size-48_dk {
+    background-image: url(./48/dk.png);
+}
+.b-country-flag_size-48_do {
+    background-image: url(./48/do.png);
+}
+.b-country-flag_size-48_ee {
+    background-image: url(./48/ee.png);
+}
+.b-country-flag_size-48_et {
+    background-image: url(./48/et.png);
+}
+.b-country-flag_size-48_fi {
+    background-image: url(./48/fi.png);
+}
+.b-country-flag_size-48_fr {
+    background-image: url(./48/fr.png);
+}
+.b-country-flag_size-48_ge {
+    background-image: url(./48/ge.png);
+}
+.b-country-flag_size-48_de {
+    background-image: url(./48/de.png);
+}
+.b-country-flag_size-48_gh {
+    background-image: url(./48/gh.png);
+}
+.b-country-flag_size-48_gb {
+    background-image: url(./48/gb.png);
+}
+.b-country-flag_size-48_gr {
+    background-image: url(./48/gr.png);
+}
+.b-country-flag_size-48_hk {
+    background-image: url(./48/hk.png);
+}
+.b-country-flag_size-48_hu {
+    background-image: url(./48/hu.png);
+}
+.b-country-flag_size-48_is {
+    background-image: url(./48/is.png);
+}
+.b-country-flag_size-48_in {
+    background-image: url(./48/in.png);
+}
+.b-country-flag_size-48_ir {
+    background-image: url(./48/ir.png);
+}
+.b-country-flag_size-48_ie {
+    background-image: url(./48/ie.png);
+}
+.b-country-flag_size-48_il {
+    background-image: url(./48/il.png);
+}
+.b-country-flag_size-48_it {
+    background-image: url(./48/it.png);
+}
+.b-country-flag_size-48_jm {
+    background-image: url(./48/jm.png);
+}
+.b-country-flag_size-48_jp {
+    background-image: url(./48/jp.png);
+}
+.b-country-flag_size-48_kz {
+    background-image: url(./48/kz.png);
+}
+.b-country-flag_size-48_ke {
+    background-image: url(./48/ke.png);
+}
+.b-country-flag_size-48_kg {
+    background-image: url(./48/kg.png);
+}
+.b-country-flag_size-48_lv {
+    background-image: url(./48/lv.png);
+}
+.b-country-flag_size-48_lb {
+    background-image: url(./48/lb.png);
+}
+.b-country-flag_size-48_li {
+    background-image: url(./48/li.png);
+}
+.b-country-flag_size-48_lt {
+    background-image: url(./48/lt.png);
+}
+.b-country-flag_size-48_lu {
+    background-image: url(./48/lu.png);
+}
+.b-country-flag_size-48_mk {
+    background-image: url(./48/mk.png);
+}
+.b-country-flag_size-48_mx {
+    background-image: url(./48/mx.png);
+}
+.b-country-flag_size-48_md {
+    background-image: url(./48/md.png);
+}
+.b-country-flag_size-48_mc {
+    background-image: url(./48/mc.png);
+}
+.b-country-flag_size-48_mn {
+    background-image: url(./48/mn.png);
+}
+.b-country-flag_size-48_me {
+    background-image: url(./48/me.png);
+}
+.b-country-flag_size-48_ma {
+    background-image: url(./48/ma.png);
+}
+.b-country-flag_size-48_mt {
+    background-image: url(./48/mt.png);
+}
+.b-country-flag_size-48_np {
+    background-image: url(./48/np.png);
+}
+.b-country-flag_size-48_nl {
+    background-image: url(./48/nl.png);
+}
+.b-country-flag_size-48_nz {
+    background-image: url(./48/nz.png);
+}
+.b-country-flag_size-48_kp {
+    background-image: url(./48/kp.png);
+}
+.b-country-flag_size-48_no {
+    background-image: url(./48/no.png);
+}
+.b-country-flag_size-48_pk {
+    background-image: url(./48/pk.png);
+}
+.b-country-flag_size-48_pe {
+    background-image: url(./48/pe.png);
+}
+.b-country-flag_size-48_ph {
+    background-image: url(./48/ph.png);
+}
+.b-country-flag_size-48_pl {
+    background-image: url(./48/pl.png);
+}
+.b-country-flag_size-48_pt {
+    background-image: url(./48/pt.png);
+}
+.b-country-flag_size-48_py {
+    background-image: url(./48/py.png);
+}
+.b-country-flag_size-48_ro {
+    background-image: url(./48/ro.png);
+}
+.b-country-flag_size-48_ru {
+    background-image: url(./48/ru.png);
+}
+.b-country-flag_size-48_sm {
+    background-image: url(./48/sm.png);
+}
+.b-country-flag_size-48_sn {
+    background-image: url(./48/sn.png);
+}
+.b-country-flag_size-48_rs {
+    background-image: url(./48/rs.png);
+}
+.b-country-flag_size-48_sk {
+    background-image: url(./48/sk.png);
+}
+.b-country-flag_size-48_si {
+    background-image: url(./48/si.png);
+}
+.b-country-flag_size-48_za {
+    background-image: url(./48/za.png);
+}
+.b-country-flag_size-48_kr {
+    background-image: url(./48/kr.png);
+}
+.b-country-flag_size-48_es {
+    background-image: url(./48/es.png);
+}
+.b-country-flag_size-48_se {
+    background-image: url(./48/se.png);
+}
+.b-country-flag_size-48_ch {
+    background-image: url(./48/ch.png);
+}
+.b-country-flag_size-48_tg {
+    background-image: url(./48/tg.png);
+}
+.b-country-flag_size-48_th {
+    background-image: url(./48/th.png);
+}
+.b-country-flag_size-48_tj {
+    background-image: url(./48/tj.png);
+}
+.b-country-flag_size-48_tl {
+    background-image: url(./48/tl.png);
+}
+.b-country-flag_size-48_to {
+    background-image: url(./48/to.png);
+}
+.b-country-flag_size-48_tr {
+    background-image: url(./48/tr.png);
+}
+.b-country-flag_size-48_ua {
+    background-image: url(./48/ua.png);
+}
+.b-country-flag_size-48_us {
+    background-image: url(./48/us.png);
+}
+.b-country-flag_size-48_uz {
+    background-image: url(./48/uz.png);
+}
+.b-country-flag_size-48_ve {
+    background-image: url(./48/ve.png);
+}
+.b-country-flag_size-48_vg {
+    background-image: url(./48/vg.png);
+}
+.b-country-flag_size-48_vi {
+    background-image: url(./48/vi.png);
+}
+.b-country-flag_size-48_zw {
+    background-image: url(./48/zw.png);
+}
