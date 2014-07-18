@@ -25,20 +25,20 @@ Note, that all classes are hidpi-friendly, all image assets automatically double
 ```
 
 ####48&times;36:
-```html
 ![DE flag](http://yastatic.net/fifa14-frontend/_/wxDcDfTV7OUhSaP7zr0YH_V6s_E.png)
+```html
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-48_de"></span>
 ```
 
 ####36&times;24:
-```html
 ![BR flag](http://yastatic.net/fifa14-frontend/_/PwEFC-cn0BvVLtVvMdQE4Hr-I_w.png)
+```html
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-36_br"></span>
 ```
 
 ####24&times;16:
-```html
 ![BE flag](http://yastatic.net/fifa14-frontend/_/7xjRM15pRfVrZKJF9c8DyLkR4fE.png)
+```html
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-24_be"></span>
 ```
 
