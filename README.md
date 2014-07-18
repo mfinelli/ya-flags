@@ -1,3 +1,6 @@
+ya-flags
+========
+
 BEM-flavoured flags icons. 
 Similar with icons used by Yandex in their projects.
 
