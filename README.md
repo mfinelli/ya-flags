@@ -19,36 +19,34 @@ Note, that all classes are hidpi-friendly, all image assets automatically double
 ###Examples:
 
 ####64&times;48:
+![KR flag](http://yastatic.net/fifa14-frontend/_/DT7Mkk-UZWDfB1Q1PhCwLKjeE6Y.png)
 ```html
-<span class="b-country-flag b-country-flag_size_48 b-country-flag_size-64_dz"></span>
+<span class="b-country-flag b-country-flag_size_48 b-country-flag_size-64_kr"></span>
 ```
-![DZ flag](http://yastatic.net/fifa14-frontend/_/pt0_AUfoL0pQYMAQCUI-938wIjM.png)
 
 ####48&times;36:
 ```html
+![DE flag](http://yastatic.net/fifa14-frontend/_/wxDcDfTV7OUhSaP7zr0YH_V6s_E.png)
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-48_de"></span>
 ```
-![DE flag](http://yastatic.net/fifa14-frontend/_/wxDcDfTV7OUhSaP7zr0YH_V6s_E.png)
 
 ####36&times;24:
 ```html
+![BR flag](http://yastatic.net/fifa14-frontend/_/PwEFC-cn0BvVLtVvMdQE4Hr-I_w.png)
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-36_br"></span>
 ```
-![BR flag](http://yastatic.net/fifa14-frontend/_/PwEFC-cn0BvVLtVvMdQE4Hr-I_w.png)
 
 ####24&times;16:
 ```html
+![BE flag](http://yastatic.net/fifa14-frontend/_/7xjRM15pRfVrZKJF9c8DyLkR4fE.png)
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-24_be"></span>
 ```
-![BE flag](http://yastatic.net/fifa14-frontend/_/7xjRM15pRfVrZKJF9c8DyLkR4fE.png)
 
 ####16&times;12:
+![RU flag](http://yastatic.net/fifa14-frontend/_/KbUTsZq6ePAcVcZpzG5V36PZKxM.png)
 ```html
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-16_ru"></span>
 ```
-![RU flag](http://yastatic.net/fifa14-frontend/_/KbUTsZq6ePAcVcZpzG5V36PZKxM.png)
-
-
 
 ##List of available countries:
 
