@@ -16,23 +16,39 @@ As it uses [BEM](http://bem.info/) methodology, each node needs 3 classes:
 Note, that all classes are hidpi-friendly, all image assets automatically double their resolution on retina displays.
 
 
-###Example:
+###Examples:
 
+####64&times;48:
 ```html
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-64_dz"></span>
+```
+![DZ flag](http://yastatic.net/fifa14-frontend/_/pt0_AUfoL0pQYMAQCUI-938wIjM.png)
+
+####48&times;36:
+```html
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-48_de"></span>
-<span class="b-country-flag b-country-flag_size_48 b-country-flag_size-32_br"></span>
+```
+![DE flag](http://yastatic.net/fifa14-frontend/_/wxDcDfTV7OUhSaP7zr0YH_V6s_E.png)
+
+####36&times;24:
+```html
+<span class="b-country-flag b-country-flag_size_48 b-country-flag_size-36_br"></span>
+```
+![BR flag](http://yastatic.net/fifa14-frontend/_/PwEFC-cn0BvVLtVvMdQE4Hr-I_w.png)
+
+####24&times;16:
+```html
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-24_be"></span>
+```
+![BE flag](http://yastatic.net/fifa14-frontend/_/7xjRM15pRfVrZKJF9c8DyLkR4fE.png)
+
+####16&times;12:
+```html
 <span class="b-country-flag b-country-flag_size_48 b-country-flag_size-16_ru"></span>
 ```
-
-###Returns:
-
-![DZ flag](http://yastatic.net/fifa14-frontend/_/pt0_AUfoL0pQYMAQCUI-938wIjM.png)
-![DE flag](http://yastatic.net/fifa14-frontend/_/wxDcDfTV7OUhSaP7zr0YH_V6s_E.png)
-![BR flag](http://yastatic.net/fifa14-frontend/_/PwEFC-cn0BvVLtVvMdQE4Hr-I_w.png)
-![BE flag](http://yastatic.net/fifa14-frontend/_/7xjRM15pRfVrZKJF9c8DyLkR4fE.png)
 ![RU flag](http://yastatic.net/fifa14-frontend/_/KbUTsZq6ePAcVcZpzG5V36PZKxM.png)
+
+
 
 ##List of available countries:
 
