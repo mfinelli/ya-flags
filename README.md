@@ -2,7 +2,7 @@ ya-flags
 ========
 
 BEM-flavoured flags icons. 
-Similar with icons used by Yandex in their projects.
+Similar with those Yandex uses in their projects.
 
 
 #Usage:
