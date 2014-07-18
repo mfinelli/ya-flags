@@ -1,6 +1,3 @@
-ya-flags
-========
-
 BEM-flavoured flags icons. 
 Similar with icons used by Yandex in their projects.
 
@@ -11,9 +8,9 @@ As it uses [BEM](http://bem.info/) methodology, each node needs 3 classes:
 
 * General definition: `b-country-flag`;
 * Size definition: `b-country-flag_size_(16|24|32|48|64)`;
-* Nation definition: `b-country-flag_size-48_de (see full list of available flags below)`.
+* Nation definition: `b-country-flag_size-48_(ad|al|am|ar...za|zw)` (see full list of available flags below).
 
-Note, that all classes are hidpi-friendly, all image assets automatically double their resolution on retina displays.
+Note, that all classes are hidpi-friendly: all image assets automatically double their resolution on retina displays.
 
 
 ###Examples:
