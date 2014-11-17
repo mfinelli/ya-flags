@@ -52,7 +52,7 @@ Note, that all classes are hidpi-friendly: all image assets automatically double
 
 - ad al am ar at au az
 - ba be bg bm br bs by
-- ca ch cl cn co cr cy cz
+- ca ch cl cm cn co cr cy cz
 - de dk do dz
 - ee es et
 - fi fr

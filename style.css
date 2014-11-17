@@ -95,6 +95,11 @@
 .b-country-flag_size-16_cl { background-image: url(./32/cl.png); }
 }
 
+.b-country-flag_size-16_cm { background-image: url(./16/cm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-16_cm { background-image: url(./32/cm.png); }
+}
+
 .b-country-flag_size-16_cn { background-image: url(./16/cn.png); }
 @media not all, (min-resolution: 144dpi) {
 .b-country-flag_size-16_cn { background-image: url(./32/cn.png); }
@@ -606,6 +611,11 @@
 .b-country-flag_size-24_cl { background-image: url(./24/cl.png); }
 @media not all, (min-resolution: 144dpi) {
 .b-country-flag_size-24_cl { background-image: url(./48/cl.png); }
+}
+
+.b-country-flag_size-24_cm { background-image: url(./24/cm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-24_cm { background-image: url(./48/cm.png); }
 }
 
 .b-country-flag_size-24_cn { background-image: url(./24/cn.png); }
@@ -1131,6 +1141,11 @@
 .b-country-flag_size-32_cl { background-image: url(./64/cl.png); }
 }
 
+.b-country-flag_size-32_cm { background-image: url(./32/cm.png); }
+@media not all, (min-resolution: 144dpi) {
+.b-country-flag_size-32_cm { background-image: url(./64/cm.png); }
+}
+
 .b-country-flag_size-32_cn { background-image: url(./32/cn.png); }
 @media not all, (min-resolution: 144dpi) {
 .b-country-flag_size-32_cn { background-image: url(./64/cn.png); }
@@ -1616,6 +1631,9 @@
 .b-country-flag_size-48_cl {
     background-image: url(./48/cl.png);
 }
+.b-country-flag_size-48_cm {
+    background-image: url(./48/cm.png);
+}
 .b-country-flag_size-48_cn {
     background-image: url(./48/cn.png);
 }
@@ -1931,6 +1949,9 @@
 }
 .b-country-flag_size-64_cl {
     background-image: url(./64/cl.png);
+}
+.b-country-flag_size-64_cm {
+    background-image: url(./64/cm.png);
 }
 .b-country-flag_size-64_cn {
     background-image: url(./64/cn.png);
