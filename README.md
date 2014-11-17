@@ -63,7 +63,7 @@ Note, that all classes are hidpi-friendly: all image assets automatically double
 - ke kg kp kr ky kz
 - lb li lt lu lv
 - ma mc md me mk mn mt mx
-- nl no np nz
+- ng nl no np nz
 - pe ph pk pl pt py
 - ro rs ru
 - se si sk sm sn
