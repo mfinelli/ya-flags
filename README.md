@@ -7,16 +7,18 @@ Similar with those Yandex uses in their projects.
 
 #Usage:
 
-As it uses [BEM](http://bem.info/) methodology, you need 3 classes to define a flag:
+```html
+<div class="b-country-flag b-country-flag_size-(16...64)_(ad|al...za|zw)"></div>
+```
 
-* Base class: `b-country-flag`;
-* Size definition: `b-country-flag_size_(16|24|32|48|64)`;
-* Nation definition: `b-country-flag_size-(16...64)_(ad|al...za|zw)` (see full list of available flags below).
+Note: you have to define base styles for the icon, as it provides only `background-image` property.
 
-Note, that all classes are hidpi-friendly: all image assets automatically double their resolution on retina displays.
+Note: 16, 24 and 32 pixels width flags are retina-friendly: all images double their resolution on hi-dpi displays.
 
 
 ###Examples:
+
+*In this example classes `b-country-flag` and `b-country-flag_size_(16...64)` are defined.*
 
 ####64&times;48:
 ![KR flag](http://yastatic.net/fifa14-frontend/_/DT7Mkk-UZWDfB1Q1PhCwLKjeE6Y.png)
