@@ -1,15 +1,15 @@
 ya-flags
 ========
 
-BEM-flavoured flags icons. 
+BEM-flavoured retina-friendly flags icons. 
 Similar with those Yandex uses in their projects.
 
 
 #Usage:
 
-As it uses [BEM](http://bem.info/) methodology, each node needs 3 classes:
+As it uses [BEM](http://bem.info/) methodology, you need 3 classes to define a flag:
 
-* General definition: `b-country-flag`;
+* Base class: `b-country-flag`;
 * Size definition: `b-country-flag_size_(16|24|32|48|64)`;
 * Nation definition: `b-country-flag_size-(16...64)_(ad|al...za|zw)` (see full list of available flags below).
 
