@@ -57,7 +57,7 @@ Note, that all classes are hidpi-friendly: all image assets automatically double
 - ee es et
 - fi fr
 - gb ge gh gr
-- hk hr hu
+- hk hn hr hu
 - ie il in ir is it
 - jm jp
 - ke kg kp kr ky kz
